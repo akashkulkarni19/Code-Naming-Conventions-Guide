@@ -1,0 +1,41 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node (if using JS/TS)
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.env
+
+# JetBrains IDEs (e.g. PyCharm, WebStorm)
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS Finder settings
+*.DS_Store
+
+# Temporary files
+*.swp
+*.bak
+*.tmp
+*.backup
+
+# PDF or generated files
+*.pdf
+
+# Environment or secret files
+.env
+.env.local
+.env.*.local

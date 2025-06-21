@@ -1,7 +1,6 @@
 # Code Naming Conventions Guide
 
 A comprehensive cheat sheet for naming conventions used across popular programming languages and software development environments. This guide ensures consistency, readability, and maintainability in codebases by following widely accepted industry standards.
-
 ---
 
 ## 📘 Contents
